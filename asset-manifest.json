@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Test-React-Github-Pages/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Test-React-Github-Pages/static/js/main.a1cedaee.chunk.js",
+    "main.js.map": "/Test-React-Github-Pages/static/js/main.a1cedaee.chunk.js.map",
+    "runtime-main.js": "/Test-React-Github-Pages/static/js/runtime-main.4b1e9419.js",
+    "runtime-main.js.map": "/Test-React-Github-Pages/static/js/runtime-main.4b1e9419.js.map",
+    "static/js/2.0f1015b7.chunk.js": "/Test-React-Github-Pages/static/js/2.0f1015b7.chunk.js",
+    "static/js/2.0f1015b7.chunk.js.map": "/Test-React-Github-Pages/static/js/2.0f1015b7.chunk.js.map",
+    "index.html": "/Test-React-Github-Pages/index.html",
+    "precache-manifest.702359a65e3678858f5700a2e9e2b34e.js": "/Test-React-Github-Pages/precache-manifest.702359a65e3678858f5700a2e9e2b34e.js",
+    "service-worker.js": "/Test-React-Github-Pages/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Test-React-Github-Pages/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Test-React-Github-Pages/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b1e9419.js",
+    "static/js/2.0f1015b7.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a1cedaee.chunk.js"
+  ]
+}
